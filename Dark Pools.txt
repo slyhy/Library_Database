@@ -1,0 +1,5 @@
+In the beginning was Josh Levine, an idealistic programming genius who dreamed of wresting control of the market from the big exchanges that, again and again, gave the giant institutions an advantage over the little guy. Levine created a computerized trading hub named Island where small traders swapped stocks, and over time his invention morphed into a global electronic stock market that sent trillions in capital through a vast jungle of fiber-optic cables.  
+
+By then, the market that Levine had sought to fix had turned upside down, birthing secretive exchanges called dark pools and a new species of trading machines that could think, and that seemed, ominously, to be slipping the control of their human masters. 
+
+Dark Pools is the fascinating story of how global markets have been hijacked by trading robots--many so self-directed that humans can't predict what they'll do next.

@@ -1,0 +1,97 @@
+5
+Pattern Recognition
+William Gibson
+02/01/2005
+0425198685
+Yes
+
+0
+Machine Learning
+Ethem Alpaydin
+12/04/2009
+0262012432
+No
+
+10
+Siege of Darkness
+R.A. Salvatore
+06/28/2008
+786948698
+Yes
+
+13
+A Game of Thrones
+George R.R. Martin
+08/06/1996
+0553103547
+Yes
+
+6
+A Clash of Kings
+George R.R. Martin
+02/02/1999
+0553108034
+Yes
+
+8
+A Storm of Swords
+George R.R. Martin
+8/8/2000
+0553106635
+Yes
+
+7
+A Feast for Crows
+George R.R. Martin
+10/17/2005
+0553801503
+Yes
+
+1
+A Dance with Dragons
+George R.R. Martin
+07/12/2011
+0553801473
+Yes
+
+3
+Dark Pools
+Scott Patterson
+06/25/2013
+0307887189
+yes
+
+4
+When Genius Failed
+Roger Lowenstein
+08/09/2001
+0375758259
+yes
+
+10
+1984
+George Orwell
+07/01/1950
+0451524934
+yes
+
+15
+The Catcher in the Rye
+J. D. Salinger
+01/30/2001
+0316769177
+yes
+
+15
+The Great Gatsby
+F. Scott Fitzgerald
+09/30/2004
+0743273567
+yes
+
+100
+Accepted
+Madison
+02/31/2009
+2345198008
+yes
